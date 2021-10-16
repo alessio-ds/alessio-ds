@@ -8,6 +8,8 @@ I also happen to be a Cyber Security and Ethical Hacking expert and enthusiast.
 
 I like playing CTFs.
 
+Major fan of privacy, and I use as many privacy-focused alternatives as possible.
+
 ## :man_technologist: About Me
 
 
@@ -21,15 +23,16 @@ I like playing CTFs.
 
 ### :spiral_notepad: Personal website
 
-- My personal website is available at [http://alessiodellasanta.it](http://alessiodellasanta.it)
+- My personal website is available at [alessiodellasanta.it](http://alessiodellasanta.it)
 
 ### :zap: Fun Facts
 
-- Arch is great. I3 and Xmonad for life.
+- Arch is great. 
+- I3 / Xmonad for life.
 
 ### :mailbox: How to reach me:
 
-- Website: http://alessiodellasanta.it
+- Website: [alessiodellasanta.it](http://alessiodellasanta.it)
 
 - Email: [hello@alessiodellasanta.it](mailto:hello@alessiodellasanta.it)
 
