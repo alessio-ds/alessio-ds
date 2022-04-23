@@ -13,7 +13,7 @@ Major fan of privacy, and I use as many privacy-focused alternatives as possible
 ## :man_technologist: About Me
 
 
-### :telescope: ~~I’m currently working for [Kaspersky Lab](https://www.kaspersky.com/)~~
+### :telescope: Ex [Kaspersky Lab](https://www.kaspersky.com/) Employee
 
 ### :seedling: I’m currently learning
 
