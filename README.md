@@ -12,6 +12,7 @@ Major fan of privacy, and I use as many privacy-focused alternatives as possible
 
 ## :man_technologist: About Me
 
+### 💼 Working at [Binance](https://binance.com/)
 
 ### :telescope: Ex [Kaspersky Lab](https://www.kaspersky.com/) Employee
 
