@@ -24,7 +24,7 @@ Major fan of privacy, and I use as many privacy-focused alternatives as possible
 
 ### :spiral_notepad: Personal website
 
-- My personal website is available at [alessiodellasanta.it](http://alessiodellasanta.it)
+- My personal website is available at [alessiodellasanta.online](https://alessiodellasanta.online)
 
 ### :zap: Fun Facts
 
@@ -33,11 +33,9 @@ Major fan of privacy, and I use as many privacy-focused alternatives as possible
 
 ### :mailbox: How to reach me:
 
-- Website: [alessiodellasanta.it](http://alessiodellasanta.it)
+- Website: [alessiodellasanta.it](https://alessiodellasanta.online)
 
-- Email: [hello@alessiodellasanta.it](mailto:hello@alessiodellasanta.it)
+- Email: [hello@alessiodellasanta.it](mailto:hello@alessiodellasanta.online)
 
-
-### :star: Learn More at http://www.alessiodellasanta.it/about/
 
 <img src="https://raw.githubusercontent.com/alessio-ds/alessio-ds/main/images/wave.svg" >
