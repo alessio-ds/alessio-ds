@@ -33,9 +33,9 @@ Major fan of privacy, and I use as many privacy-focused alternatives as possible
 
 ### :mailbox: How to reach me:
 
-- Website: [alessiodellasanta.it](https://alessiodellasanta.online)
+- Website: [alessiodellasanta.online](https://alessiodellasanta.online)
 
-- Email: [hello@alessiodellasanta.it](mailto:hello@alessiodellasanta.online)
+- Email: [hello@alessiodellasanta.online](mailto:hello@alessiodellasanta.online)
 
 
 <img src="https://raw.githubusercontent.com/alessio-ds/alessio-ds/main/images/wave.svg" >
