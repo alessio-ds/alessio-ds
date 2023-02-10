@@ -14,7 +14,7 @@ Major fan of privacy, and I use as many privacy-focused alternatives as possible
 
 ### 💼 Currently working in Fintech, Crypto
 
-### :telescope: Ex [Kaspersky Lab](https://www.kaspersky.com/) Employee
+### :telescope: Former [Kaspersky Lab](https://www.kaspersky.com/) Employee
 
 ### :seedling: I’m currently learning
 
