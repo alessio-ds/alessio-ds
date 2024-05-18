@@ -2,7 +2,7 @@
 ![alessio-ds Github Stats](https://github-readme-stats.vercel.app/api?username=alessio-ds&count_private=true&include_all_commits=true&show_icons=true&theme=dark)
 ## 💻 $ whoami
 
-My name is Alessio Della Santa, and I'm a Python Developer.
+My name is Alessio, and I'm a Python Developer.
 
 I also happen to be a Cyber Security and Ethical Hacking expert and enthusiast.
 
