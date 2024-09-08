@@ -24,7 +24,7 @@ Major fan of privacy, and I use as many privacy-focused alternatives as possible
 
 ### :spiral_notepad: Personal website
 
-- My personal website is available at [alessiodellasanta.online](https://alessiodellasanta.online)
+- https://y.at/💪😎👍💼💻
 
 ### :zap: Fun Facts
 
